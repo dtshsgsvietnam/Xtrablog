@@ -1,0 +1,124 @@
+.main .video{
+    border-top: 5px solid #0CC;
+    padding-top: 60px;
+  }
+  .main .video .detail-blog .title{
+    font-weight: 450;
+    font-size: 26px;
+    color: #0CC;
+    margin-top: 50px;
+  }
+  .main .video .detail-blog .date{
+      margin-top: 10px;
+      margin-bottom: 25px;
+  }
+  .main .video .detail-blog .demo{
+    color: #999;
+    padding-top: 10px;
+    line-height: 2;
+  }
+  .main .video .detail-blog .info{
+    color: #099;
+    text-align: right;
+    padding-top: 20px;
+    margin-bottom: 15px;
+
+  }
+ hr {
+    border-top: 2px solid #099;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px; 
+  }
+  .main .video .detail-blog .comment .img{
+      border-radius: 50%;
+      border: 1px solid #dee2e6;
+  }
+  .main .video .detail-blog .comment .photo{
+    color: #0CC;
+    padding-top: 20px;
+    text-align: center;
+    line-height: 1.4;
+  }
+  .main .video .detail-blog .comment .content .demo{
+    color: #999;
+    padding-top: 10px;
+    line-height: 2;
+  }
+  .main .video .detail-blog .comment{
+    display: flex;
+    align-items: flex-start;
+  }
+  .main .video .detail-blog .comment .content .etc{
+    display: flex;
+    justify-content: space-between;
+    height: 38px;
+    align-items: baseline;
+    padding-top: 15px;
+    padding-bottom: 70px;
+  }
+  .main .video .detail-blog .comment .content .etc .reply{
+    color: #099;
+  }
+  .main .video .detail-blog .comment .content .etc .date{
+    color: #099;
+  }
+  .main .video .detail-blog .line{
+    border-top: 5px solid #0CC;
+    margin-bottom: 45px;
+  }
+  .main .video .detail-blog .post .link-list{
+    padding-left: 3rem;
+    margin-bottom: 75px;
+  }
+  .main .video .detail-blog .post .link-list .abc{
+    color: #099;
+    line-height: 2;
+    font-size: 19px;
+  }
+  .main .video .detail-blog .post .link-list .abc :hover{
+    text-decoration: none;
+  }
+  .main .video .detail-blog .post .screen .word{
+    color: #099;
+  }
+  .main .video .detail-blog .post .screen{
+    margin-bottom: 40px;
+  }
+  .main .video .detail-blog .post .screen .abcd{
+    max-width: 280px; 
+  }
+  .main .video .detail-blog .post .titles{
+    margin-bottom: 40px;
+    color: #0CC;
+    font-weight: 450;
+    font-size: 26px;
+    margin-top: 20px;
+  }
+  .main .video .detail-blog .post .lines{
+    border-top: 5px solid #0CC;
+  }
+  .main .video .detail-blog .form .submit{
+    text-align: right!important;
+  }
+  .main .video .detail-blog .form{
+    max-width: 360px;
+  }
+  .main .video .detail-blog .form .form-control{
+    height: 45px;
+    border-color: #0CC;
+    border-radius: 0;
+  }
+
+  .main .video .detail-blog .form .submit .button{
+    cursor: pointer;
+    background-color: #0CC;
+    color: white;
+    border: none;
+    padding: 10px 37px;
+    border-radius: 5%;
+  }
+ textarea{
+  border-color: #0CC;
+}
